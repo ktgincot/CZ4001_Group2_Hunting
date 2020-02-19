@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-02-19T15:56:53.156+08:00
+  initializedAtString: 2020-02-19T15:56:53.156+08:00
+  log:
+  - commitID: a7e0cb0043a53badc8f5ef51ecab98ccb19e6656
+    mergeA: 
+    mergeB: 
+    authorName: '{ktgincot}'
+    authorEmail: ktgintkd@gmail.com
+    commitEmail: ktgintkd@gmail.com
+    commitName: '{ktgincot}'
+    summary: Initial commit
+    description: 
+    timeString: 2020-02-19T15:42:25.000+08:00
+    commitTimeString: 2020-02-19T15:42:25.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/ktgincot/Documents/ktgincot/Computer_Science/NTU_108_2/Virtual_and_Augmented_Reality/Hunting/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: /Users/ktgincot/Documents/ktgincot/Computer_Science/NTU_108_2/Virtual_and_Augmented_Reality/Hunting/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/ktgincot/Documents/ktgincot/Computer_Science/NTU_108_2/Virtual_and_Augmented_Reality/Hunting/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
